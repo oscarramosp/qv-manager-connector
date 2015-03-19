@@ -1,0 +1,1 @@
+Solución que permite extraer información del API de Administración de Qlikview
